@@ -11,6 +11,7 @@ function App() {
                     Edit <code>src/App.tsx</code> and save to reload.
                 </p>
             </header>
+            <a href="https://react.org">learn react</a>
         </div>
     );
 }
